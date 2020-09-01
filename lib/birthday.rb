@@ -10,6 +10,7 @@ def happy_birthday(birthday_kids)
   end
 end
 
+<<<<<<< HEAD
 def age_appropriate_birthday(birthday_kids)
   birthday_kids.each do |kids_name, age|
 
@@ -19,4 +20,7 @@ def age_appropriate_birthday(birthday_kids)
       puts "You are too old for this."
     end
   end
+=======
+def age_appropriate_birthday(age)
+>>>>>>> 852c472968d00653f496c3550a15732334c089d2
 end
